@@ -1,5 +1,5 @@
 # Yolov1-with-EfficientnetV2-S
-Implementation of Yolov1 with pretrained EfficientnetV2-S model in pytorch
+Implementation of Yolov1 from scratch with pretrained EfficientnetV2-S backbone coded in pytorch
 
 Results from the Test Set (Trained on pascalvoc 2012 dataset)
 
