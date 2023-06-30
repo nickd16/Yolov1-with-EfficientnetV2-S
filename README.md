@@ -28,5 +28,9 @@ The model is then optimized over this loss function from the original YOLO paper
 ![image](https://github.com/nickd16/Yolov1-with-EfficientnetV2-S/assets/108239710/85b81dbd-21a3-4e08-bbd0-4b354fb2b657)
 
 
+Optimization Detail:
+
+Adam with initial learning rate 3e-5 multiplied by 0.1 every 10k iterations for 40k total.
+
 
 
